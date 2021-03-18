@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1616054493 source:d:\projekty\c++\codeblocks\ryba\main.cpp
+	<iostream>
+	"Ryba.h"
+	<vector>
+
+1616053680 d:\projekty\c++\codeblocks\ryba\include\ryba.h
+	<iostream>
+	<string>
+
+1616054586 source:d:\projekty\c++\codeblocks\ryba\src\ryba.cpp
+	"Ryba.h"
+	<fstream>
+
